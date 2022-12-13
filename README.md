@@ -4,4 +4,6 @@
 команда: locate access.log
 2. Запускать парсер командой: python parser.py -f ПУТЬ_ИЗ_ШАГА_1
 """
+
+результат выполнения сохраняется в корне проекта, в таком виде:
 ![изображение](https://user-images.githubusercontent.com/88431811/207435925-0e4a377e-6574-446c-b119-4dce0defefa8.png)
